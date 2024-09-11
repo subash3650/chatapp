@@ -21,7 +21,7 @@ Client: The client connects to the server and can send messages. All clients con
 Installation:
 
 Clone the repository:
-git clone https://github.com/yourusername/ChatApplication.git
+git clone https://github.com/subash3650/ChatApplication.git
 
 Navigate to the project directory:
 cd ChatApplication
